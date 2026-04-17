@@ -118,7 +118,7 @@ jupyter notebook Contactabilidad_Eficiencia_Operacional.ipynb
 ---
 ## 👤 Autor
 
-**Cristopher Jiménez Escobar** — Analista de Procesos Jr.
+**Cristopher Jiménez Escobar** — Analista Programador | Data Analyst | BI Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/www.linkedin.com/in/programan1008)
 [![GitHub](https://img.shields.io/badge/GitHub-Portafolio-181717?style=flat&logo=github)](https://github.com/https://github.com/Programan1008)
